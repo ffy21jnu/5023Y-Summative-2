@@ -1,0 +1,10 @@
+---
+title: 
+author:
+output:
+  pdf_document: default
+  html_document: default
+---
+\large Exploring the relationship between nutritional content of food and singing duration in *Gryllodes sigillatus*, the Decorated cricket - does quality of diet affect levels of sexual signalling? 
+
+## Introduction
